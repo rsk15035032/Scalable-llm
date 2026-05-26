@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Database Cache
+
+data/
+chroma_lanchain_db/
+chroma.sqlite3
+data_level0.bin
+header.bin
+length.bin
+link_lists.bin
