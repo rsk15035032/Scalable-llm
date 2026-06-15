@@ -1,0 +1,10 @@
+[33m6f37584[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m New Version
+[33m4cbe08b[m hiding credential
+[33m9b60ace[m Guide-line for Prompt
+[33m74f30de[m Unfinished session timeout
+[33md1aeb31[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add SQL Agent
+[33m3d3557d[m Update appropriate comment and overviews
+[33m2393fe5[m First RAG Agent on Langchain
+[33m9b3d157[m Ignore DB cache
+[33m79384da[m  Sementic Search Engine with Langchain
+[33m6e4d4b2[m Ignoring VectorDatabase cache
