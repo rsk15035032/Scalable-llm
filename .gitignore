@@ -228,3 +228,5 @@ length.bin
 link_lists.bin
 chroma_rag_db/
 Chinook.db
+LangChain/4.Subagents/.env
+LangChain/4.Subagents/requirements.txt
