@@ -232,3 +232,5 @@ LangChain/4.Subagents/.env
 LangChain/4.Subagents/requirements.txt
 LangChain/5. Customer-support/.env
 LangChain/5. Customer-support/__pycache__
+LangChain/6. Router( Knowledge Base)/.env
+LangChain/6. Router( Knowledge Base)/multi_source_router.py
