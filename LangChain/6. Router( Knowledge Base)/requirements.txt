@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-community
+langchain-huggingface
+transformers
+huggingface-hub
+pydantic
